@@ -35,3 +35,6 @@ C:\vs2019\study\AspnetCoreStudy\AspnetCoreStudy\obj\Debug\netcoreapp3.1\AspnetCo
 C:\vs2019\study\AspnetCoreStudy\AspnetCoreStudy\obj\Debug\netcoreapp3.1\AspnetCoreStudy.pdb
 C:\vs2019\study\AspnetCoreStudy\AspnetCoreStudy\obj\Debug\netcoreapp3.1\AspnetCoreStudy.genruntimeconfig.cache
 C:\vs2019\study\AspnetCoreStudy\AspnetCoreStudy\obj\Debug\netcoreapp3.1\AspnetCoreStudy.csproj.CopyComplete
+C:\vs2019\study\AspnetCoreStudy\AspnetCoreStudy\obj\Debug\netcoreapp3.1\Razor\Views\Study\CSharp.cshtml.g.cs
+C:\vs2019\study\AspnetCoreStudy\AspnetCoreStudy\obj\Debug\netcoreapp3.1\Razor\Views\Study\Index.cshtml.g.cs
+C:\vs2019\study\AspnetCoreStudy\AspnetCoreStudy\obj\Debug\netcoreapp3.1\Razor\Views\Study\Java.cshtml.g.cs
