@@ -21,11 +21,24 @@ namespace AspnetCoreStudy.Controllers
         //http://www.example.com/Home/Index
         public IActionResult Index()
         {
-            return View();
-        }
+            var firstUser = new User
+            {
+                id = 1,
+                name = "홍길동"
+            };
 
-        public IActionResult Privacy()
-        {
+            // # 1번째 방식 View(model)
+            //return View(firstUser);
+
+            // # 2번째 방식 ViewBag
+            //ViewBag.User = firstUser;
+            //return View();
+
+            // # 3번째 방식 ViewData
+            //객체를 넘기지 못함
+            ViewData["UserId"] = firstUser.id;
+            ViewData["UserName"] = firstUser.name;
+
             return View();
         }
 
